@@ -1,0 +1,33 @@
+body{
+    background: #E6EFF5;
+    font-family: "Karla";
+    font-size: 16px;
+}
+
+h1{
+    font-size: 24px;
+    font-weight: 700;
+    color: #2AB3B1;
+}
+
+h2{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+p{
+    color: #9AA7BE;
+}
+
+.join-community h2{
+    color: #C0DF33;
+}
+
+.monthly-subs h2, .why-us h2{
+    color: #fff;
+}
+
+.monthly-subs p, .why-us li{
+    color: #fff;
+}
+
